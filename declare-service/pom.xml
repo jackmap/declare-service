@@ -16,6 +16,7 @@
 	<modules>
 		<module>declare-common</module>
 		<module>declare-system</module>
+		<module>declare-bill</module>
 	</modules>
 
 	<distributionManagement>
